@@ -1,3 +1,3 @@
-Hexlet id=s awesome too!
+I love Hexlet!
 something important
 git is cool
